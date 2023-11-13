@@ -46,3 +46,28 @@ Adım: [2, 3, 5, 8, 7, 9, 4, 15, 6] (Minimum elemanı seçip dizinin ikinci sır
 Adım: [2, 3, 4, 5, 8, 7, 9, 15, 6] (Minimum elemanı seçip dizinin üçüncü sırasına yerleştiririz.)
 Adım: [2, 3, 4, 5, 8, 7, 9, 15, 6] (Minimum elemanı seçip dizinin dördüncü sırasına yerleştiririz.)
 Bu şekilde dizi Selection Sort algoritması kullanılarak ilk 4 adım sonunda sıralanmış olur.
+
+# Proje 2 : Merge Sort
+
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+# Merge Sort Proje Çözümleri :
+
+Verilen diziyi Merge Sort algoritması ile sıralayalım:
+
+Dizi: [16, 21, 11, 8, 12, 22]
+
+Adım: [16, 21, 11] | [8, 12, 22] (Diziyi ikiye böleriz.)
+Adım: [16] | [21, 11] | [8] | [12, 22] (Her alt diziyi tek elemanlı alt dizilere ayırırız.)
+Adım: [16] | [11, 21] | [8] | [12, 22] (Alt dizileri sıralı olarak birleştiririz.)
+Adım: [11, 16, 21] | [8, 12, 22] (Tüm alt dizileri birleştiririz.)
+Bu şekilde dizi Merge Sort algoritması kullanılarak sıralanmış olur.
+
+Big-O Gösterimi: Merge Sort'ın time complexity'si O(n log n) şeklindedir.
+
+
+
+
