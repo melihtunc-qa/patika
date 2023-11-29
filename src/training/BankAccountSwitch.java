@@ -10,7 +10,7 @@ public class BankAccountSwitch {
         int balance = 1500;
         int select;
 
-        while (right>3){
+        while (right>0){
             System.out.println("Kullanıcı Adınız");
             userName = input.nextLine();
             System.out.println("Parolanız : ");
