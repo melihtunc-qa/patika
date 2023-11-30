@@ -71,3 +71,5 @@ w
 G.idea/sonarlint/issuestore/b/b/bbacc6d5f5f32f084701502785d08732dd38d0ab,1\a\1a7c8d536aa9cbbd7ace8db56f3f4536814c06f3
 Å
 Q.idea/sonarlint/securityhotspotstore/1/2/12114a9da70730805d78f731c1330311eb5587b3,f\5\f50c95d1e9b8bf58d7c17935ae9f95b93c811acd
+I
+src/training/Odd_Sum.java,f\4\f4d5c821ccb490512c4066dec20a09f586dbfda5
