@@ -23,8 +23,6 @@ L
 src/examples/Taksimetre.java,c\2\c2cc03eff7bd65c3aecbc3a5544be5801e3c8032
 H
 src/examples/Zodiak.java,1\5\15e96066fc06150958983d37da97d659bf525b9a
-L
-src/examples/Calculator.java,c\e\ce31e27b7b63b7b646a93c820ecc4ed1dd6f5899
 J
 src/examples/ArtikYil.java,4\5\452a1616f0714216d497a02dab0fe700e8107652
 N

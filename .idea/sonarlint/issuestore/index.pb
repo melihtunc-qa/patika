@@ -25,8 +25,6 @@ M
 src/examples/Arrangement.java,e\5\e562438c63135317efd0c5c85108cf4ade341981
 J
 src/examples/ArtikYil.java,4\5\452a1616f0714216d497a02dab0fe700e8107652
-L
-src/examples/Calculator.java,c\e\ce31e27b7b63b7b646a93c820ecc4ed1dd6f5899
 G
 src/examples/Daire.java,c\f\cf19bb9bb0a97802bfa1f796dc01b2781f04d0e7
 K
