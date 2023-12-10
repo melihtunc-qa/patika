@@ -89,3 +89,13 @@ I
 src/training/KatAlma.java,d\7\d7aaaee7faccca4c28ad28494c5e9f5e5e357c53
 H
 src/training/Kuvvet.java,c\d\cd187295d34cc1a8b2bc381e2999e37b6d02527a
+Q
+!src/training/WonderfulNumber.java,1\d\1d1e251a7f0e3e8304057906c58070d3003966bf
+O
+src/training/NumberCounter.java,d\9\d96132c06f83dcd7d60c4c493bd0baf1bad2829b
+K
+src/training/Palindrom.java,4\9\499c5b96ceab3ae4aa6d061e43e6111f458db752
+W
+'src/examples/CalculatorWithMethods.java,1\3\130a15e224c8f93025aafd955f8c63217a343d9f
+R
+"src/training/RecursiveKatAlma.java,8\e\8e5b14d5c9f43d4431435ec5d3cb8fb16d506792
