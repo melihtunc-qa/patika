@@ -27,6 +27,9 @@ public class Student {
 
     }
 
+    public Student(String şaban, String stdNo, String classes, Course tarih, Course fizik) {
+    }
+
 
     void addBulkExamNote(int note1,int note2,int note3){
        if (note1<=100 && note1>=0){

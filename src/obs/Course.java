@@ -16,6 +16,9 @@ public class Course {
         this.t=t;
     }
 
+    public Course(String fizik, String code, String fzk) {
+    }
+
     void addTeacher(Teacher teacher){
 
         if (teacher.branch.equals(this.prefix)){
