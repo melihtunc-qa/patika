@@ -123,3 +123,9 @@ C
 src/obs/Course.java,6\3\63af789894ad9069eeeab8d77b6feb5356f9992a
 D
 src/obs/Student.java,5\4\54db2eb22a8fb32c46e00ed4f1fc2272d0eaece7
+D
+src/box/Fighter.java,8\c\8c96ad735db214b146045724f5acbee398e13ba0
+B
+src/box/Match.java,b\6\b689eda29776c93dfa2efbf1f6eac0cdb91f0a47
+H
+src/training/Arrays.java,b\8\b8f8990dba06ea24726007e4aea88ee1666386ec
