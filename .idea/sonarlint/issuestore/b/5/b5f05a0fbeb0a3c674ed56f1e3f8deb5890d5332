@@ -1,0 +1,21 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8Ú´Å¾Á1
+C
+java:S1659"&Declare "password" on a separate line.(§Úºı8Û´Å¾Á1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÒµÀ8Ş´Å¾Á1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(üİüÿÿÿÿ8Ş´Å¾Á1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â»–ú8Ş´Å¾Á1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÖ‰ğÿÿÿÿÿ8ß´Å¾Á1
+T
+java:S6126"2Replace this String concatenation with Text block.(ÃÖ‰ğÿÿÿÿÿ8ß´Å¾Á1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê®“8ß´Å¾Á1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÑ„¬úÿÿÿÿ8ß´Å¾Á1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(úÑ„¬úÿÿÿÿ8ß´Å¾Á1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ê®Ğ›ûÿÿÿÿ8à´Å¾Á1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ŒæÌõ8à´Å¾Á1
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(ÃâÒt8à´Å¾Á1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(±»Ş¶8à´Å¾Á1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(×…¤½8à´Å¾Á1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(¶ùóè8á´Å¾Á1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(õß—Œûÿÿÿÿ8á´Å¾Á1

@@ -1,0 +1,12 @@
+
+Y
+java:S1659">Declare "b" and all following declarations on a separate line.(ë³ ¹øÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(É£ğÙ
+2
+java:S1116"Remove this empty statement.(Òå ›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éû•ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£­Ô—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µÍÑ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸å 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã«¨¢ûÿÿÿÿ

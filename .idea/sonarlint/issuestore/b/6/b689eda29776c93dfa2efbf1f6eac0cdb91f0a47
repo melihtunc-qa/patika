@@ -1,0 +1,12 @@
+
+n	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(þÆ°á
+3
+java:S2119"Save and re-use this "Random".(¼ÝÅf
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ÚåÉÑ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Úðó 
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Ö‚Í“
+S	java:S106="9Replace this use of System.out or System.err by a logger.(³´¨™üÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(©Ð½Ì
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ÑÑÎÅ
+V
+java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë

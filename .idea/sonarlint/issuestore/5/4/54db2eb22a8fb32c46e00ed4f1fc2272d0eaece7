@@ -1,0 +1,14 @@
+
+n
+java:S11927"LDefine a constant instead of duplicating this literal " Notu : \t " 3 times.(‘ñªâıÿÿÿÿ8“—Ü¨Å1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İòô‘úÿÿÿÿ8§ä„¬Å1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İòô‘úÿÿÿÿ8¶ä„¬Å1
+n
+java:S18451"QRename method "isPass" to prevent any misunderstanding/clash with field "isPass".(ù×ü€8›—Ü¨Å1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(‘ñªâıÿÿÿÿ8¡—Ü¨Å1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ˆì´Åüÿÿÿÿ8¢—Ü¨Å1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¢û¹Îøÿÿÿÿ8¢—Ü¨Å1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(«Ü¸¶8¢—Ü¨Å1
+_
+java:S1128"=Remove this unused import 'java.util.random.RandomGenerator'.(—›­úÿÿÿÿ8¢—Ü¨Å1

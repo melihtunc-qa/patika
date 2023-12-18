@@ -1,0 +1,18 @@
+
+F
+java:S1481"+Remove this unused "zodiak" local variable.(öÌ‰Ïúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þº°þøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¹´ìþÿÿÿÿ
+<	java:S131""Add a default case to this switch.(úèÐúÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žè
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ž“Á˜øÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(™ðß»þÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿ’ˆÞúÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(»§í¡
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Üù˜æùÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÆÔúÿÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¶Õ¯¶úÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(õÏ±¥ûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÙðúÚýÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(«øåº
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(êÉö‹

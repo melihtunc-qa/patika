@@ -1,0 +1,16 @@
+
+K
+java:S1121*".Extract the assignment out of this expression.(ğ¿ô8Àˆ™æÀ1
+7
+java:S1700"Rename field "combination"( «çß8Áˆ™æÀ1
+x
+java:S1845("[Rename method "combination" to prevent any misunderstanding/clash with field "combination".(‡ŞÑ¶8Åˆ™æÀ1
+F
+java:S1659")Declare "combination" on a separate line.( «çß8Æˆ™æÀ1
+A
+java:S1659"Declare "r" on a separate line.(ùáÀñÿÿÿÿÿ8Èˆ™æÀ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´™»8Êˆ™æÀ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö”’ñ8Êˆ™æÀ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¤¹Üÿÿÿÿÿ8ï÷ŸæÀ1
+>
+java:S1110*"!Remove these useless parentheses.(ğ¿ô8Ëˆ™æÀ1

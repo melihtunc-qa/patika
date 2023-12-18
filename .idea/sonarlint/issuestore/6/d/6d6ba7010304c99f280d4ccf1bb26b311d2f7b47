@@ -1,0 +1,8 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "sayi".(ôŸÈ¼ÿÿÿÿÿ
+D
+java:S1481")Remove this unused "sayi" local variable.(ôŸÈ¼ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒº÷™
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

@@ -1,0 +1,15 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•éµ’üÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÎ‚»
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€„Ëéúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’šñ”ıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–µ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°çä
+\
+java:S1659"ADeclare "elma" and all following declarations on a separate line.(•éµ’üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Ê•¹øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥µà¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾öÊÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(è¿Êáÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Öñùÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”÷óõÿÿÿÿÿ
