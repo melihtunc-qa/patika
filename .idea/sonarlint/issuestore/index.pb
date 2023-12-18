@@ -129,3 +129,11 @@ H
 src/training/Arrays.java,b\8\b8f8990dba06ea24726007e4aea88ee1666386ec
 D
 src/box/Fighter.java,8\c\8c96ad735db214b146045724f5acbee398e13ba0
+I
+src/training/ArraysMinMax,9\4\9420796de235bd567f6e36581b5e066c6067108e
+T
+$src/training/ArraysAgainNumbers.java,8\b\8bea4388abcaf812e5968060f4416e2697afc19e
+N
+src/training/ArraysMinMax.java,f\b\fb7082cdcde94d2b928a48e826a8072e2b1875b9
+O
+src/training/ArraysSpecial.java,7\1\719b33a8ec091d2976d8fa9e593ef6e1db6ac4fb
