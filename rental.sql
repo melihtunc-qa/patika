@@ -41,4 +41,13 @@ select count (*) where like city_name '%R';
 
 
 
+------ODEV5---------------
+
+select * from film where like title '%M' order by lenght(title) limit 5;
+
+select * from film where like title '%M' order by length(title) desc offset 5;
+
+select * from customer where store_id=4 order by last_name desc limit 4;
+
+
 
