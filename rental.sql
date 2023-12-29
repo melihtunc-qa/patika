@@ -27,3 +27,18 @@ select title from film where lower(title) like '&t&' or upper(title) like '%T%' 
 select * from film where like 'C%' and (length>90 and rental_rate=2.99);
 
 
+-------odev4----------
+
+select distinct replacement_cost from film;
+
+select count(distinct replacement_cost) from film;
+
+select count(*)from film where like title 'T%' and rating='G';
+
+select count(*)where length(country) =5);
+
+select count (*) where like city_name '%R';
+
+
+
+
