@@ -15,5 +15,15 @@ select first_name,last_name from actor where first_name in ('Penelope','Nick','E
 
 select * from film where (rental_rate in(0.99,2.99,4.99)) and (replacement_cost in (12.99,15.99,28.99));
 
+-----odev3---------
+
+
+select country from country where country like 'A%a';
+
+select country from country where (length>6) and (like '%n');
+
+select title from film where lower(title) like '&t&' or upper(title) like '%T%' limit 4;
+
+select * from film where like 'C%' and (length>90 and rental_rate=2.99);
 
 
