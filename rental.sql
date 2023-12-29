@@ -51,3 +51,14 @@ select * from customer where store_id=4 order by last_name desc limit 4;
 
 
 
+-----ODEV6-----------
+
+SELECT avg(rental_rate) from film ;
+
+select count(*) from film where film_name like 'C%';
+
+select max(length) from film where rental_rate = 0.99;
+
+select count(distinct replacement_cost) from film where length>150;
+
+
