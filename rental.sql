@@ -61,4 +61,10 @@ select max(length) from film where rental_rate = 0.99;
 
 select count(distinct replacement_cost) from film where length>150;
 
+----------odev7-----------------
+
+select rating count(*) from film group by rating order by rating desc ;
+
+select replacement_cost , count(*) from film group by replacement_cost having count(*)>50 order by replacement_cost; 
+
 
