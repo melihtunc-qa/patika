@@ -68,3 +68,11 @@ select rating count(*) from film group by rating order by rating desc ;
 select replacement_cost , count(*) from film group by replacement_cost having count(*)>50 order by replacement_cost; 
 
 
+------odev8----------
+
+create table employee (id integer primary key, name VARCHAR(50),birthday date,email VARCHAR(100));
+
+insert employee into (name,birthday,email) values ('melih','20/10/1950','melih@tunc.com');
+update employee set ('mahmut','10/10/1999','ihsan@tunc.com') where id =1;
+delete employee where name = 'melih';
+
