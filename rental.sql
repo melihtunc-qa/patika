@@ -95,6 +95,14 @@ select rental.rental_id,customer.first_name,customer.last_name from customer ful
 --------odev 11 -------
 
 (select first_name from actor ) union (select first_name from customer);
-
 (select first_name from actor) intersect (select first_name from customer);
 (select first_name from actor) except (select first_name from customer);
+
+------- ODEV 12 ---------
+
+SELECT COUNT(*) from film where lentgh >(select avg(length)from film);
+
+select count(*) from film where rental_rate = (select max(rental_rate) from film);
+
+select * from film where rental_rate = (select min(rental_rate) from film) and replacement_cost = (select min(replacement_cost) from film );
+
