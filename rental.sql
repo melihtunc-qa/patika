@@ -83,3 +83,9 @@ select city_name,country_name from city inner join country on City.countryID=Cou
 select payment_id,firstname,last_name from customer inner join payment on customer.payment_id=payment.payment_id;
 
 select rental_id,first_name,last_name from customer inner join rental on customer.rental_id=rental.rental_id;
+
+------- ODEV 10 -------
+
+select city.city_name,country.country_name from city left join country on city.country_id=country.country_id;
+select payment.payment_id, customer.first_name,customer.last_name from customer right join payment on payment.payment_id=customer.customer_id;
+select rental.rental_id,customer.first_name,customer.last_name from customer full join rental on customer.rental_id=rental.rental_id;
