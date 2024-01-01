@@ -89,3 +89,12 @@ select rental_id,first_name,last_name from customer inner join rental on custome
 select city.city_name,country.country_name from city left join country on city.country_id=country.country_id;
 select payment.payment_id, customer.first_name,customer.last_name from customer right join payment on payment.payment_id=customer.customer_id;
 select rental.rental_id,customer.first_name,customer.last_name from customer full join rental on customer.rental_id=rental.rental_id;
+
+
+
+--------odev 11 -------
+
+(select first_name from actor ) union (select first_name from customer);
+
+(select first_name from actor) intersect (select first_name from customer);
+(select first_name from actor) except (select first_name from customer);
