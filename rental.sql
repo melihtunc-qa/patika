@@ -76,3 +76,10 @@ insert employee into (name,birthday,email) values ('melih','20/10/1950','melih@t
 update employee set ('mahmut','10/10/1999','ihsan@tunc.com') where id =1;
 delete employee where name = 'melih';
 
+
+------odev 9 ---------
+select city_name,country_name from city inner join country on City.countryID=Country.CountryID;
+
+select payment_id,firstname,last_name from customer inner join payment on customer.payment_id=payment.payment_id;
+
+select rental_id,first_name,last_name from customer inner join rental on customer.rental_id=rental.rental_id;
