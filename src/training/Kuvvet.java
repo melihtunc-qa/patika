@@ -16,14 +16,14 @@ public class Kuvvet {
         System.out.println("Bir sayı giriniz");
         n = sc.nextInt();
 
-        for (int i = 1 ; i<=n ; i*=4){
+        for (int i = 1 ; i<=n ; i+=4){
 
             System.out.println("Dördün katı : " + i);
 
 
         }
 
-        for (int i =1;i<=n;i*=5){
+        for (int i =1;i<=n;i+=5){
             System.out.println("Beşin katı : " + i);
         }
 
